@@ -53,7 +53,7 @@ Each role has dedicated routes and dashboard navigation, but shares common provi
 
 ## Special Things This Platform Has
 
-- **Hyper-local 5 km discovery logic** in map and matching experience
+- **Hyper-local 5 km discovery logic** in map and matching experience (currently implemented as a fixed radius rule)
 - **End-to-end donation lifecycle tracking** (`pending → accepted → completed/cancelled`)
 - **Completion proof upload** by NGO during delivery confirmation
 - **Built-in cross-role notification system** (restaurant, NGO, admin)
