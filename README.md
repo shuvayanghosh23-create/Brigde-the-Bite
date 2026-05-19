@@ -3,9 +3,6 @@
 
 BridgeTheBite is a role-based web platform that connects **restaurants with surplus food** to **nearby NGOs** so food reaches beneficiaries instead of being wasted.
 
-Original design source:  
-https://www.figma.com/design/zstBLbPbVAyP2eYX29XTit/BridgeTheBite-Web-Platform-UI
-
 ## Problem It Solves
 
 The platform targets two issues at the same time:
